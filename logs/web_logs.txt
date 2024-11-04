@@ -1,0 +1,6 @@
+nodejs18  | 
+nodejs18  | > docker_compose@1.0.0 start
+nodejs18  | > node src/index.js
+nodejs18  | 
+nodejs18  | Server is running on port 3000
+nodejs18  | Conexión estable mongo
